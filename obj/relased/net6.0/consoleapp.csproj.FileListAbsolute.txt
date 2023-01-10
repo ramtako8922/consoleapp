@@ -1,0 +1,15 @@
+C:\Users\rmc89\platzi\consoleapp\bin\relased\net6.0\consoleapp.exe
+C:\Users\rmc89\platzi\consoleapp\bin\relased\net6.0\consoleapp.deps.json
+C:\Users\rmc89\platzi\consoleapp\bin\relased\net6.0\consoleapp.runtimeconfig.json
+C:\Users\rmc89\platzi\consoleapp\bin\relased\net6.0\consoleapp.dll
+C:\Users\rmc89\platzi\consoleapp\bin\relased\net6.0\consoleapp.pdb
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.csproj.AssemblyReference.cache
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.AssemblyInfoInputs.cache
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.AssemblyInfo.cs
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.dll
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\refint\consoleapp.dll
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.pdb
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\consoleapp.genruntimeconfig.cache
+C:\Users\rmc89\platzi\consoleapp\obj\relased\net6.0\ref\consoleapp.dll
